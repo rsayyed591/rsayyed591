@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rsayyed591](https://github.com/rsayyed591)
 
-- 💬 Ask me about **Python, JavaScript, C, SQL, Java, Web Development, AI/ML**
+- 💬 Ask me about **Java, Python, JavaScript, C, and Web Development**
 
 - 📫 How to reach me: [https://www.linkedin.com/in/rehan42/](https://www.linkedin.com/in/rehan42/)
 
@@ -43,10 +43,6 @@
   <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"> <img src="https://www.django-rest-framework.org/img/logo.png" alt="Django REST Framework" width="40" height="40"/> </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="40" height="40"/> </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" width="40" height="40"/> </a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/> </a>
-  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX" width="40" height="40"/> </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/> </a>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rsayyed591&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
