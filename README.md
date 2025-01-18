@@ -1,4 +1,4 @@
-![Background](https://github-production-user-asset-6210df.s3.amazonaws.com/99045557/338309312-18b4c261-0a1f-46ed-ac3d-8a9ca36f8f97.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250118T133309Z&X-Amz-Expires=300&X-Amz-Signature=f8519732513a6e43e57c3b1e3af6354ef366808e3e1f49b82e01c38040382a42&X-Amz-SignedHeaders=host)
+![Background](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Rehan Sayyed</h1>
 <h3 align="center">A Passionate Software Engineer | Seeking Collaborative Opportunities</h3>
 <table align="center">
@@ -57,4 +57,11 @@
 ![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 
 # 📊 GitHub Stats:  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rsayyed591&theme=dark&layout=compact) <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rsayyed591&" alt="Streak Stats" /></p>
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rsayyed591&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=rsayyed591&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+</p>
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rsayyed591&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+</p>
