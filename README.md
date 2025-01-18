@@ -1,22 +1,27 @@
-![Background](https://github.com/rxhul18/rxhul18/assets/99045557/18b4c261-0a1f-46ed-ac3d-8a9ca36f8f97)
+![Background](https://github-production-user-asset-6210df.s3.amazonaws.com/99045557/338309312-18b4c261-0a1f-46ed-ac3d-8a9ca36f8f97.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250118T133309Z&X-Amz-Expires=300&X-Amz-Signature=f8519732513a6e43e57c3b1e3af6354ef366808e3e1f49b82e01c38040382a42&X-Amz-SignedHeaders=host)
 <h1 align="center">Hi 👋, I'm Rehan Sayyed</h1>
 <h3 align="center">A Passionate Software Engineer | Seeking Collaborative Opportunities</h3>
 <table align="center">
   <tr>
     <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/rxhul18/count.svg" alt="" /></td>
+    <td><img src="https://profile-counter.glitch.me/rsayyed591/count.svg" alt="" /></td>
   </tr>
 </table>
+
 <br>
-<img align="right" alt="Coding" width="371" src="https://valesh.dev/images/coder.gif">
+<img align="right" alt="Coding" width="371" src="https://valesh.dev/images/coder.gif">  
 
-- 🌱 I’m currently exploring **Full Stack Development**
+- 👨🏼‍🎓 Studying **BE - Computer Engineering** at M.H. Saboo Siddik College of Engineering in Mumbai, India  
 
-- 👨‍💻 All of my projects are available at [https://github.com/rsayyed591](https://github.com/rsayyed591)
+- 🔭 I am passionate about coding and learning software development, always excited about solving complex problems and exploring new technologies.  
 
-- 💬 Ask me about **DSA, Python, JavaScript, C, and Web Development**
+- 🌱 I’m currently exploring **Full Stack Development**.
 
-- 📫 How to reach me: **rehansayyed591@gmail.com**
+- 👨‍💻 All of my projects are available at [https://github.com/rsayyed591](https://github.com/rsayyed591).
+
+- 💬 Ask me about **DSA, Python, JavaScript, C, and Web Development**.
+
+- 📫 How to reach me: **[https://www.linkedin.com/in/rehan42/](https://www.linkedin.com/in/rehan42/)**  
 
 - 🤝 Connect with me on:
   <a href="https://www.linkedin.com/in/rehan42" target="_blank" > <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="vertical-align: middle;" /></a>
@@ -52,5 +57,4 @@
 ![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 
 # 📊 GitHub Stats:  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rsayyed591&theme=dark&layout=compact)  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rsayyed591&" alt="Streak Stats" /></p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rsayyed591&theme=dark&layout=compact) <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rsayyed591&" alt="Streak Stats" /></p>
