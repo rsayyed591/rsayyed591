@@ -11,7 +11,7 @@
 <br>
 <img align="right" alt="Coding" width="371" src="https://valesh.dev/images/coder.gif">  
 
-- 👨🏼‍🎓 Studying **BE - Computer Engineering** at M.H. Saboo Siddik College of Engineering in Mumbai, India  
+- 👨🏼‍🎓 Studying **BE - Computer Engineering** at M.H. Saboo Siddik College of Engineering in Mumbai, India.  
 
 - 🔭 I am passionate about coding and learning software development, always excited about solving complex problems and exploring new technologies.  
 
