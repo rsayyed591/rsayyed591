@@ -1,5 +1,7 @@
 ![Background](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-<h1 align="center">Hi 👋, I'm Rehan Sayyed</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rehan+Sayyed!;" />
+</h1>
 <h3 align="center">A Passionate Software Engineer | Seeking Collaborative Opportunities</h3>
 <table align="center">
   <tr>
