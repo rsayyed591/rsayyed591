@@ -15,7 +15,7 @@
 
 - 👨🏼‍🎓 Studying **BE - Computer Engineering** at M.H. Saboo Siddik College of Engineering in Mumbai, India.  
 
-- 🔭 I am passionate about coding and learning software development, always excited about solving complex problems and exploring new technologies.  
+- 🔭 I am passionate about coding and learning software development, and I am always excited about solving complex problems and exploring new technologies.  
 
 - 🌱 I’m currently exploring **Full Stack Development**.
 
