@@ -6,7 +6,7 @@
 <table align="center">
   <tr>
     <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/rsayyed591/count.svg" alt="" /></td>
+    <td><img src="https://komarev.com/ghpvc/?username=rsayyed591&label=Profile%20views&color=0e75b6&style=flat" alt="visitor counter" /></td>
   </tr>
 </table>
 
@@ -68,9 +68,8 @@
 ![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 
 # 📊 GitHub Stats:
-<div style="display: flex;">
   <p align="left">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rsayyed591&theme=react&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+    <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rsayyed591&show_icons=true&theme=react" alt="GitHub stats Card" />
   </p>
   <p align="left">
     <img width="48%" src="https://github-readme-streak-stats-taupe-tau.vercel.app?user=rsayyed591&theme=nightfox&border_radius=5&card_width=499" alt="GitHub Streak Card" />
@@ -78,4 +77,3 @@
   <p align="left">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rsayyed591&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
   </p>
-</div>
